@@ -1,8 +1,7 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
-
-int main(int argc, char const *argv[])
-{
-    printf("yoooooo mr White !");
+int Main(){
     return 0;
 }
