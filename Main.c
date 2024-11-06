@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-int Main(){
+int main(int argc, char const *argv[])
+{
+    printf("prout");
     return 0;
 }
